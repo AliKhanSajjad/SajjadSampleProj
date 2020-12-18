@@ -26,5 +26,7 @@ str="Sajad ali khan"
 
 import os
 
+print("added after commit 1 ")
+
 print ("This is the second commit")
 
